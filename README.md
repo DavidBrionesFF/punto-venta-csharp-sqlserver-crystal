@@ -45,4 +45,6 @@ Es un patron de diseño que nos permite que solo se encuentre una sola instancia
 
 Una vez dicho esto puedes empezar a desarrollar el sistema el cual te dejare la explicacion en el siguiente video, suscribete para mas videos!!
 
-Video de Documentacion y Explicacion Aqui :https://www.youtube.com/watch?v=tM-7GbLMqZs
+Video de Documentacion y Explicacion Aqui: https://www.youtube.com/watch?v=tM-7GbLMqZs
+
+![Sistema](https://github.com/DavidBrionesFF/punto-venta-csharp-sqlserver-jasperreport/blob/master/db.jpg?raw=true)
